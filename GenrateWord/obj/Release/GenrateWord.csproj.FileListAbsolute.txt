@@ -1,0 +1,11 @@
+C:\Users\goukumar\source\repos\GenrateWord\GenrateWord\bin\Release\GenrateWord.exe.config
+C:\Users\goukumar\source\repos\GenrateWord\GenrateWord\bin\Release\GenrateWord.exe
+C:\Users\goukumar\source\repos\GenrateWord\GenrateWord\bin\Release\GenrateWord.pdb
+C:\Users\goukumar\source\repos\GenrateWord\GenrateWord\obj\Release\GenrateWord.csprojResolveAssemblyReference.cache
+C:\Users\goukumar\source\repos\GenrateWord\GenrateWord\obj\Release\GenrateWord.csproj.ResolveComReference.cache
+C:\Users\goukumar\source\repos\GenrateWord\GenrateWord\obj\Release\GenrateWord.Form1.resources
+C:\Users\goukumar\source\repos\GenrateWord\GenrateWord\obj\Release\GenrateWord.Properties.Resources.resources
+C:\Users\goukumar\source\repos\GenrateWord\GenrateWord\obj\Release\GenrateWord.csproj.GenerateResource.Cache
+C:\Users\goukumar\source\repos\GenrateWord\GenrateWord\obj\Release\GenrateWord.csproj.CoreCompileInputs.cache
+C:\Users\goukumar\source\repos\GenrateWord\GenrateWord\obj\Release\GenrateWord.exe
+C:\Users\goukumar\source\repos\GenrateWord\GenrateWord\obj\Release\GenrateWord.pdb
